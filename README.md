@@ -14,7 +14,7 @@ We will use the Seattle dataset available in https://www.kaggle.com/airbnb/seatt
 This project can be executed using the Anaconda distribution of Python 3.x and doesn't need any additional packages.
 
 ## Files contained in repository:
-Readme.md (this file)<br>
+Readme.md <br>
 project-1.ipynb<br>
 calendar.csv - daily data on availability and pricing from kaggle (see link above)<br>
 listings.csv - listing characteristics from kaggle (see link above)<br>
