@@ -20,3 +20,6 @@ calendar.csv - daily data on availability and pricing from kaggle (see link abov
 listings.csv - listing characteristics from kaggle (see link above)<br>
 
 ## Results
+
+The results are discussed in my medium blog post avaliable in:
+https://brunodovaljorge.medium.com/can-you-build-a-model-to-help-you-choose-an-airbnb-room-in-seattle-f70af9bd03cd
