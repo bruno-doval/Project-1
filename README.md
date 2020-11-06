@@ -20,6 +20,15 @@ calendar.csv - daily data on availability and pricing from kaggle (see link abov
 listings.csv - listing characteristics from kaggle (see link above)<br>
 
 ## Results
+We have gained much more understanding of the Seattle market in 2016.
+July to September are the most expensive months to rent a place. The prices peak considerably, going from 120 USD reaching more than 150 USD.
+There is an upward trend in prices comparing the beginning of the year of 2017 and the begining of 2016. The prices gone up 12.5% comparing those periods.
+As for the type os listing we saw that entire home/apt is much more common than the other modalities (private/shared room) and they are in mainly in Apartments or Houses.
+Downtown and the southside of Seatle are the most expensive areas to rent. The north side is cheaper as so other far from downtown areas.
+We have also build a model to predict pricing based on what a person would be looking for in a room. This model predicted the price with an R squared of 0.6 — witch is not so great, but is coherent with the few parameters used on this research.
 
-The results are discussed in my medium blog post avaliable in:
+More infomration can be found on my medium blog post avaliable in:
 https://brunodovaljorge.medium.com/can-you-build-a-model-to-help-you-choose-an-airbnb-room-in-seattle-f70af9bd03cd
+
+## Acknowledgment
+I want to thank Udacity for the opportunity to work on such interesting project.
